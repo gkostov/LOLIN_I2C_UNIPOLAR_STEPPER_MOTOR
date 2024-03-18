@@ -1,0 +1,29 @@
+{
+  "name": "LOLIN_I2C_UNIPOLAR_STEPPER_MOTOR",
+  "version": "1.0.0",
+  "description": "Library for the new LOLIN I2C MOTOR Shield allowing it to drive a 5-wire unipolar stepper motor.",
+  "keywords": [
+    "lolin",
+    "wemos",
+    "i2c",
+    "unipolar",
+    "stepper",
+    "motor"
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/gkostov/LOLIN_I2C_UNIPOLAR_STEPPER_MOTOR.git"
+  },
+  "homepage": "https://github.com/gkostov/LOLIN_I2C_UNIPOLAR_STEPPER_MOTOR",
+  "authors":
+  {
+    "name": "gkostov",
+    "url":   "https://github.com/gkostov/LOLIN_I2C_UNIPOLAR_STEPPER_MOTOR",
+    "maintainer": true
+  },
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "examples": "examples/*/*/*.ino"
+}
